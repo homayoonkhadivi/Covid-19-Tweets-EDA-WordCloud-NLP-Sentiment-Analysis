@@ -6,9 +6,9 @@
 
 # In this notebook, we would perform Sentiment Analysis for the Covid-19 Tweets through passing differnet steps such as:
 
-# Data underestanding
-# Data Visualization
-# WordCloud
-# Data Preprocessing for the NLP Natural language processing
-# Building different Machine Learning Models
-# Model Evaluation
+### Data underestanding
+### Data Visualization
+### WordCloud
+### Data Preprocessing for the NLP Natural language processing
+### Building different Machine Learning Models
+### Model Evaluation
