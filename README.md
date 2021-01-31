@@ -13,7 +13,7 @@
 ### Building different Machine Learning Models
 ### Model Evaluation
 
-### Some af the Exploratory Data Analysis:
+### Some af the Exploratory Data Analysis EDA could be listed as follows:
 ![Top 50 Users by followers](https://user-images.githubusercontent.com/57557590/106397067-cd3d2680-6420-11eb-9f9e-4ad12232120c.PNG)
 
 ### WordCloud
@@ -21,7 +21,7 @@
 
 # Sentiment Analysis
 
-### Some of the Data Preprocessing with the NLP Natural Language Processing Techniques in order to perform the Sentiment Analysis
+### Some of the Data Preprocessing with the NLP Natural Language Processing Techniques in order to perform the Sentiment Analysis could be listed as follows:
 # Data Preprocessing
 ### converting to lowercase
 ### remove text in square brackets,
@@ -37,4 +37,5 @@
 ![Results of Different Models](https://user-images.githubusercontent.com/57557590/106397259-aaf7d880-6421-11eb-9a9d-7873cb6d5036.PNG)
 
 * Check out my Kaggle Profile here:
+
 https://www.kaggle.com/homayoonkhadivi/covid-19-tweets-eda-wordcloud-sentiment-analysis
